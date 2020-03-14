@@ -1,3 +1,3 @@
 # React simple started pack ⚛️
 
-## width webpack, babel, styledComponents
+## with webpack, babel, styledComponents
